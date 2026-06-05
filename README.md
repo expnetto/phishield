@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ PhishShield — Visual Phishing Detector
+# 🛡️ PhiShield — Visual Phishing Detector
 
 ### Detecção Automatizada de Interfaces Digitais Fraudulentas com Machine Learning e Visão Computacional
 
